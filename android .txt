@@ -1,0 +1,26 @@
+﻿...............................................................................................
+telegram: @lvl4fi4Dev       ---        aparat: @lvl4fi4
+```````````````````````````````````````````````````````````````````````````````````````````````
+
+- OFFLINE Applicatin
+	1- check root access/apps
+	2- Enable Proguard
+	3- Class Mapping 
+	4- cryptography (db/string/secret-key)
+	5- Native Library
+	6- Complicated Engineering
+	7- Only byte (no hard-coded string)
+
+- ONLINE Application (webservice/api/RESTful)
+	1- RESTful API
+	2- Enable SSL/TLS
+	3- Authnication
+	3- Chalenge/Responce session 
+	4- Expire session
+	5- Evolve Time
+	6- encrypt/decrypt data with session token
+
+
+...............................................................................................
+telegram: @lvl4fi4Dev       ---        aparat: @lvl4fi4
+```````````````````````````````````````````````````````````````````````````````````````````````
